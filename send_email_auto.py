@@ -1,3 +1,5 @@
+# Modify from https://realpython.com/python-send-email/
+
 import smtplib, ssl
 import getpass
 from email.mime.text import MIMEText
